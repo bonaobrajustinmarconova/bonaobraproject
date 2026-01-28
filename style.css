@@ -7,7 +7,7 @@ body {
 }
 
 .my-image {
-    width: 300px;      /* change size */
+    width: 40px;      /* change size */
     height: auto;
     display: block;
     margin: 20px auto; /* center the image */
@@ -104,3 +104,4 @@ body {
   margin: 20px;
 
 }
+
