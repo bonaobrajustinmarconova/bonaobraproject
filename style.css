@@ -6,6 +6,13 @@ body {
     line-height: 1.6;
 }
 
+.my-image {
+    width: 300px;      /* change size */
+    height: auto;
+    display: block;
+    margin: 20px auto; /* center the image */
+}
+
 header {
     background: #fff;
     color: #222;
@@ -95,4 +102,5 @@ a:hover {
 }
 body {
   margin: 20px;
+
 }
