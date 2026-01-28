@@ -6,11 +6,11 @@ body {
     line-height: 1.6;
 }
 
-.my-image {
-    width: 100px;      /* change size */
-    height: auto;
-    display: block;
-    margin: 20px auto; /* center the image */
+.my-image{
+  width:120px;
+  border-radius:50%;
+  display:block;
+  margin:0 auto 20px;
 }
 
 
@@ -105,6 +105,7 @@ body {
   margin: 20px;
 
 }
+
 
 
 
